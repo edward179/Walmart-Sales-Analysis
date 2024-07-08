@@ -81,13 +81,13 @@ The dataset was obtained from the [Kaggle Walmart Sales Forecasting Competition]
 2. What is the most common payment method?
 3. What is the most selling product line?
 4. What is the total revenue by month?
-5. What month had the largest COGS?
+5. What month had the largest COGS? 
 6. What product line had the largest revenue?
-5. What is the city with the largest revenue?
-6. What product line had the largest VAT?
-7. Fetch each product line and add a column to those product line showing "Good", "Bad". Good if its greater than average sales
-8. Which branch sold more products than average product sold?
-9. What is the most common product line by gender?
+7. What is the city with the largest revenue?
+8. What product line had the largest VAT?
+9. Fetch each product line and add a column to those product line showing "Good", "Bad". Good if its greater than average sales
+10. Which branch sold more products than average product sold?
+11. What is the most common product line by gender?
 12. What is the average rating of each product line?
 
 ### Sales
@@ -107,7 +107,7 @@ The dataset was obtained from the [Kaggle Walmart Sales Forecasting Competition]
 6. What is the gender distribution per branch?
 7. Which time of the day do customers give most ratings?
 8. Which time of the day do customers give most ratings per branch?
-9. Which day fo the week has the best avg ratings?
+9. Which day of the week has the best avg ratings?
 10. Which day of the week has the best average ratings per branch?
 
 
