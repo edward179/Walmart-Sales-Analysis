@@ -64,7 +64,7 @@ The dataset was obtained from the [Kaggle Walmart Sales Forecasting Competition]
 
 > 3. Add a new column named `month_name` that contains the extracted months of the year on which the given transaction took place (Jan, Feb, Mar). Help determine which month of the year has the most sales and profit.
 
-3. **Exploratory Data Analysis (EDA):** Exploratory data analysis is done to answer the listed questions and aims of this project.
+3. **Exploratory Data Analysis (EDA):** is primarily used to see what data can reveal beyond the formal modeling or hypothesis testing task and provides a provides a better understanding of data set variables and the relationships between them. Also, answering the listed questions and aims of this project.
 
 4. **Answer the Question**
 
